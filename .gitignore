@@ -2,3 +2,4 @@ dbSettings.env
 go.mod
 go.sum
 snakeGameApi.exe
+snakeGameApi.exe~
